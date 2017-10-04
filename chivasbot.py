@@ -24,7 +24,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" Chivas Bot
+helpMessage =""" Chivas By : Recky
 [Id︎]
 [Mid]
 [Me︎]
@@ -83,7 +83,7 @@ Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 Bots=[mid,Amid,Bmid,Cmid]
-admin=["YOUR_MID_HERE"]
+admin=["uce770dc0e6663920c8eb6ed2755c7e3f"]
 wait = {
     'contact':True,
     'autoJoin':True,
@@ -99,7 +99,7 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":True,
-    "cName":"Chivas ",
+    "cName":"Bots ",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
